@@ -52,10 +52,10 @@ Ce script est conçu pour les passionnés de SSTV souhaitant automatiser l’env
 | Variable   | Description                          | Exemple                           |
 |------------|------------------------------------|---------------------------------|
 | `IMGDIR`   | Chemin local contenant les images  | `C:\Users\conta\Documents\Image SSTV` |
-| `SERVEUR`  | Adresse IP ou domaine du VPS        | `141.94.251.32`                 |
-| `UTILISATEUR` | Nom utilisateur SSH sur VPS      | `debian`                       |
-| `MOTDEPASSE` | Mot de passe SSH                  | `f62dmr-62`                    |
-| `PORT`     | Port SSH utilisé                   | `59480`                        |
+| `SERVEUR`  | Adresse IP ou domaine du VPS        | `141.102.231.132`                 |
+| `UTILISATEUR` | Nom utilisateur SSH sur VPS      | `linux`                       |
+| `MOTDEPASSE` | Mot de passe SSH                  | `Polux`                    |
+| `PORT`     | Port SSH utilisé                   | `22`                        |
 | `DESTDIR`  | Dossier cible sur le serveur       | `/var/www/html/sstv`            |
 | `WINSCPEXE` | Chemin vers l’exécutable WinSCP   | `"C:\Program Files (x86)\WinSCP\WinSCP.com"` |
 
